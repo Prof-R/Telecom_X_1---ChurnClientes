@@ -1,5 +1,12 @@
 # 📊 Análise de Churn de Clientes na Telecom X
 
+Este repositório contém os estudos, anotações e práticas realizadas durante a formação em **Data Science** promovida pelo programa **ONE - Oracle Next Education**, em parceria com a **Alura**.
+
+> 🙏 Sou grato pela oportunidade de aprendizado proporcionada por essa formação!
+
+---
+
+
 Olá a todos!  
 Sou o novo assistente de análise de dados na **Telecom X** e estou muito empolgado em fazer parte do projeto **Churn de Clientes**.
 
@@ -122,6 +129,14 @@ Com base nesta análise exploratória, esperamos:
 Este repositório faz parte de um estudo de caso interno e pode ser usado como referência para projetos de EDA e análise de churn.
 
 Sinta-se à vontade para abrir issues ou contribuir com melhorias!
+
+---
+
+Referências:
+
+[Visite o site da ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)
+
+[Visite o site da Alura](https://www.alura.com.br)
 
 ---
 
